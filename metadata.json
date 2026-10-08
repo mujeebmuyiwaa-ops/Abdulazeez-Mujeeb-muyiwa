@@ -1,0 +1,6 @@
+{
+  "name": "IronCore Gym – Local Fitness & Strength Center",
+  "description": "Premium local strength, conditioning, and personal training gym. Transparent memberships, certified coaching, and free trial sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
